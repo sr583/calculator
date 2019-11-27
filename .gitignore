@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+#include<iostream>
+using namespace std;
+int main()
+{COUT<<"HELLO WORLD";
+return 0;
+}
